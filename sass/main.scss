@@ -8,7 +8,10 @@ object {
 	pointer-events: none;
 }
 
-
+.slide__center h5 {
+	opacity: 0;
+	visibility: hidden;
+}
 
 .name_cocktail .slider__items {
 	max-width: 920px;
@@ -138,6 +141,8 @@ object {
 		
 		.video__top {
 			height: 100%;
+			width: 100%;
+			object-fit: cover;
 		}
 	}
 }
