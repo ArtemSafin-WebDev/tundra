@@ -1,10 +1,7 @@
 @font-face {
     font-family: 'PF DinText Pro';
     src: url('PFDinTextPro-Bold.eot');
-    src: url('PFDinTextPro-Bold.eot?#iefix') format('embedded-opentype'),
-        url('PFDinTextPro-Bold.woff2') format('woff2'),
-        url('PFDinTextPro-Bold.woff') format('woff'),
-        url('PFDinTextPro-Bold.ttf') format('truetype');
+    src: url('PFDinTextPro-Bold.eot?#iefix') format('embedded-opentype'), url('PFDinTextPro-Bold.woff2') format('woff2'), url('PFDinTextPro-Bold.woff') format('woff'), url('PFDinTextPro-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -12,10 +9,7 @@
 @font-face {
     font-family: 'PF DinText Pro';
     src: url('PFDinTextPro-Regular.eot');
-    src: url('PFDinTextPro-Regular.eot?#iefix') format('embedded-opentype'),
-        url('PFDinTextPro-Regular.woff2') format('woff2'),
-        url('PFDinTextPro-Regular.woff') format('woff'),
-        url('PFDinTextPro-Regular.ttf') format('truetype');
+    src: url('PFDinTextPro-Regular.eot?#iefix') format('embedded-opentype'), url('PFDinTextPro-Regular.woff2') format('woff2'), url('PFDinTextPro-Regular.woff') format('woff'), url('PFDinTextPro-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -23,10 +17,7 @@
 @font-face {
     font-family: 'PF DinText Pro';
     src: url('PFDinTextPro-Thin.eot');
-    src: url('PFDinTextPro-Thin.eot?#iefix') format('embedded-opentype'),
-        url('PFDinTextPro-Thin.woff2') format('woff2'),
-        url('PFDinTextPro-Thin.woff') format('woff'),
-        url('PFDinTextPro-Thin.ttf') format('truetype');
+    src: url('PFDinTextPro-Thin.eot?#iefix') format('embedded-opentype'), url('PFDinTextPro-Thin.woff2') format('woff2'), url('PFDinTextPro-Thin.woff') format('woff'), url('PFDinTextPro-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
@@ -34,10 +25,7 @@
 @font-face {
     font-family: 'PF DinText Pro';
     src: url('PFDinTextPro-Light.eot');
-    src: url('PFDinTextPro-Light.eot?#iefix') format('embedded-opentype'),
-        url('PFDinTextPro-Light.woff2') format('woff2'),
-        url('PFDinTextPro-Light.woff') format('woff'),
-        url('PFDinTextPro-Light.ttf') format('truetype');
+    src: url('PFDinTextPro-Light.eot?#iefix') format('embedded-opentype'), url('PFDinTextPro-Light.woff2') format('woff2'), url('PFDinTextPro-Light.woff') format('woff'), url('PFDinTextPro-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
@@ -45,10 +33,7 @@
 @font-face {
     font-family: 'PF DinText Pro';
     src: url('PFDinTextPro-Medium.eot');
-    src: url('PFDinTextPro-Medium.eot?#iefix') format('embedded-opentype'),
-        url('PFDinTextPro-Medium.woff2') format('woff2'),
-        url('PFDinTextPro-Medium.woff') format('woff'),
-        url('PFDinTextPro-Medium.ttf') format('truetype');
+    src: url('PFDinTextPro-Medium.eot?#iefix') format('embedded-opentype'), url('PFDinTextPro-Medium.woff2') format('woff2'), url('PFDinTextPro-Medium.woff') format('woff'), url('PFDinTextPro-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
@@ -56,11 +41,23 @@
 @font-face {
     font-family: 'Roboto';
     src: url('Roboto-Thin.eot');
-    src: url('Roboto-Thin.eot?#iefix') format('embedded-opentype'),
-        url('Roboto-Thin.woff2') format('woff2'),
-        url('Roboto-Thin.woff') format('woff'),
-        url('Roboto-Thin.ttf') format('truetype');
+    src: url('Roboto-Thin.eot?#iefix') format('embedded-opentype'), url('Roboto-Thin.woff2') format('woff2'), url('Roboto-Thin.woff') format('woff'), url('Roboto-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('DINPro.woff2') format('woff2'), url('DINPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('DINPro-Bold.woff2') format('woff2'), url('DINPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
